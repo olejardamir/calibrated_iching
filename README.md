@@ -1,4 +1,4 @@
-# I Ching — Human Interpretations from the Final V18 System
+# I Ching — Semantically minimized and geometrically calibrated
 
 ## 65. ◎ The Center — Undirected Potential
 
